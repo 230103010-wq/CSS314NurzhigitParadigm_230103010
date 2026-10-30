@@ -1,0 +1,16 @@
+{
+  "kernel": "5-point Jacobi stencil",
+  "flops_per_point": 4,
+  "dram_bytes_per_point": 16,
+  "arithmetic_intensity_flop_per_byte": 0.25,
+  "measured_stream_bw_gbs_1thread": 5.517936186220138,
+  "assumed_peak_gflops": 159.744,
+  "assumed_flops_per_cycle_per_core": 16,
+  "ridge_point_flop_per_byte": 28.949954223632812,
+  "working_set_bytes": 34668544,
+  "l3_bytes": 8388608,
+  "regime": "memory-bandwidth bound",
+  "attainable_gflops": 1.3794840465550344,
+  "amdahl_serial_fraction_mean": 0.6862821114734781,
+  "amdahl_S_max": 1.4571267169603994
+}

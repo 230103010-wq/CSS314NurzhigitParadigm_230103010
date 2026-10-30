@@ -87,6 +87,7 @@ def main():
         phys, logi = None, os.cpu_count()
 
     profile = {
+        "cache_line_bytes": info["caches"].get("line_size_bytes") or 64,
         "cpu_model": info["cpu_model"],
         "microarchitecture": a.microarch,
         "base_freq_mhz": info["base_freq_mhz"],
