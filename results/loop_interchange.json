@@ -1,0 +1,11 @@
+{
+  "N": 1472,
+  "M": 736,
+  "t_ijk_ns": 460039500,
+  "t_ikj_ns": 87245800,
+  "speedup": 5.27291285081918,
+  "max_abs_diff_ijk_vs_ikj": 0.0,
+  "max_abs_diff_vs_numpy": 6.821210263296962e-13,
+  "sha256_ijk": "2f0ec6a90d8609122588baf927d40e3fb8ce5849052223e1bbc93deca117f7cb",
+  "sha256_ikj": "2f0ec6a90d8609122588baf927d40e3fb8ce5849052223e1bbc93deca117f7cb"
+}
