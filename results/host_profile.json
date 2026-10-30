@@ -1,0 +1,19 @@
+{
+  "cpu_model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+  "microarchitecture": "MICROARCH",
+  "base_freq_mhz": 2496,
+  "physical_cores": null,
+  "logical_threads": 8,
+  "smt_enabled": false,
+  "caches": {
+    "line_size_bytes": 64,
+    "l1d_bytes": null,
+    "l2_bytes": 1048576,
+    "l3_bytes": 8388608
+  },
+  "os": "Windows",
+  "kernel": "11",
+  "os_version": "10.0.26200",
+  "python_implementation": "CPython",
+  "python_version": "3.12.0"
+}
